@@ -127,6 +127,7 @@ This RPI hat is the GPIO interface, with a very good analog front end:
 
 ![proto1 front panel assembled](https://github.com/madees/asynth2osc/blob/main/proto1greenut2.jpg)
 ![proto1 beta tests](https://github.com/madees/asynth2osc/blob/main/proto1greenut.bmp)
+![proto1 beta tests](https://github.com/madees/asynth2osc/blob/main/proto1greenut3.bmp)
 
 ## Second architecture
 This aims to integrate LEDs, buttons, and DACs on the same board to improve manufacturing and ralaibilty.
