@@ -10,7 +10,7 @@ The idea for this project is to have a hardware to interface analog synth to adv
 
 This project is also designed to leverage the possibilities of open-source show control software [Chataigne](https://benjamin.kuperberg.fr/chataigne/).
 
-There are a lot of solution to control an analog modular synthesizer from a computer, mainly by MIDI interfaces. But not so much options to do the opposite: control others FROM analog modulations. There are some solutions still, 
+There are a lot of solution to control an analog modular synthesizer from a computer, mainly by MIDI interfaces. But not so much options to do the opposite: control others FROM analog modulations. There are some close features solutions, like [Befaco VCMC](https://www.befaco.org/vcmc-2/) but they use MIDI. 
 The features and purpose are very close to existing [Befaco VCMC](https://www.befaco.org/vcmc-2/), but with TCP-IP for OSC instead of serial for MIDI - so we need to upgrade the microcontroller.
 
 Some inspiration for hardware can be found at open hardware synths company Mutable Instruments. In its [repository](https://github.com/pichenettes/eurorack) we can find the exact reference design, typically for the [Yarns V3](https://pichenettes.github.io/mutable-instruments-documentation/modules/yarns/) MIDI digital interface.
