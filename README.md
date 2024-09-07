@@ -125,6 +125,9 @@ This RPI hat is the GPIO interface, with a very good analog front end:
 * Analog input via TI SN74LV4051A 8:1 analog multiplexer
 * Open Collector outputs via TI DS2003CM high-current Darlington driver and NXP 74HC 8-bit parallel-in/serial out shift register.
 
+![proto1 front panel assembled](https://github.com/madees/asynth2osc/blob/main/proto1greenut2.jpg)
+![proto1 beta tests](https://github.com/madees/asynth2osc/blob/main/proto1greenut.jpg)
+
 ## Second architecture
 This aims to integrate LEDs, buttons, and DACs on the same board to improve manufacturing and ralaibilty.
 The Raspberry Pi is dropped and replaced by a custom board with WiFi/TCP-IP SoC and all the analog stuff.
