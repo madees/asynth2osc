@@ -1,4 +1,4 @@
-# Analog synth to OpenOSC interface
+# Analog synthesizer module to Open Sound Control (OSC)
 
 ## Project description
 
